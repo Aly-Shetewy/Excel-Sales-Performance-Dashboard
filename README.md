@@ -5,7 +5,7 @@ A comprehensive Microsoft Excel dashboard analyzing over **$1M+** in e-commerce 
 ---
 
 ## 📸 Dashboard Overview
-![Dashboard Screenshot](Sales%20dashboard.png)
+![Dashboard Screenshot](SalesDashboard.png)
 
 ---
 
@@ -21,7 +21,7 @@ A comprehensive Microsoft Excel dashboard analyzing over **$1M+** in e-commerce 
   - **80%** Orders successfully delivered.
   - **19%** Delivery failures.
   - **56%** Late deliveries vs **44%** On-time deliveries.
-- **Customer Breakdown:** Analyzed B2B (**35 Companies**) vs B2C (**90 Individual customers**).
+- **Customer Breakdown:** Analyzed B2B (**3 Companies**) vs B2C (**73 Individual customers**).
 
 ---
 
