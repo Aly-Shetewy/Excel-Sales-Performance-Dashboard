@@ -5,7 +5,7 @@ A comprehensive Microsoft Excel dashboard analyzing over **$1M+** in e-commerce 
 ---
 
 ## 📸 Dashboard Overview
-![Dashboard Screenshot](Sales%20Dashboard.png)
+![Dashboard Screenshot](Sales%20dashboard.png)
 
 ---
 
