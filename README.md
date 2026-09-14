@@ -20,7 +20,7 @@ A comprehensive Microsoft Excel dashboard analyzing over **$1M+** in e-commerce 
 - **Delivery Fulfillment:**
   - **80%** Orders successfully delivered.
   - **19%** Delivery failures.
-  - **56%** On-time deliveries vs **44%** Late deliveries.
+  - **56%** Late deliveries vs **44%** On-time deliveries.
 - **Customer Breakdown:** Analyzed B2B (**35 Companies**) vs B2C (**90 Individual customers**).
 
 ---
