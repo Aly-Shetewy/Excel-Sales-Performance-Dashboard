@@ -35,3 +35,12 @@ A comprehensive Microsoft Excel dashboard analyzing over **$1M+** in e-commerce 
 ## 📁 Repository Structure
 - `Sales_and_Delivery_Performance_Dashboard.xlsx` — Cleaned Excel file containing raw data, pivot calculations, and the dashboard.
 - `SalesDashboard.png` — High-resolution screenshot of the dashboard.
+
+
+## 🎨 Visual Redesign 
+
+I updated the color palette and UI design to make the dashboard more readable and visually appealing.
+
+### Updated Design (New Version)
+![Sales Dashboard New Version](Sales_Dashboard_v2.png)
+
